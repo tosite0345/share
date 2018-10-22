@@ -1,4 +1,4 @@
-> *:neutral_face:今日の気分*
+> *:bust_in_silhouette:今日の気分*
 
 > *:memo:ひとこと*
 
